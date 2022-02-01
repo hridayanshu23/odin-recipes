@@ -1,2 +1,2 @@
 # odin-recipes
-hvjhvhv h
+This website has various delicious recipes.
